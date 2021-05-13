@@ -1,0 +1,49 @@
+body{
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(https://i.pinimg.com/originals/4a/94/26/4a94268541d7a0ed95a8be5138e8a288.jpg);
+}
+
+#menu > ul{
+    margin: 0px;
+    background-color: rgb(16, 51, 126);
+    list-style: none;
+
+}
+
+#menu > ul > li{
+    display: inline;
+
+}
+
+#menu > ul > li > a{
+    padding: 10px 10px;
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+#menu > ul > li > a:hover{
+    color: rgb(0, 1, 82);
+}
+
+#linha{
+    margin-top: -10px;
+
+}
+
+#home{
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    color: white;
+    line-height: 14px;
+    margin-top: 23px;
+    background-color: rgba(32, 32, 32, 0.5);
+}
+
+#footer{
+    font-size: 11px;
+    color: white;
+    text-align: center;
+}
